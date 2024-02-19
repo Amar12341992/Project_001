@@ -3,3 +3,6 @@
 
 
 hi thisb is the git Session
+
+
+it conducted on 19 feb 2024
